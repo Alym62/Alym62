@@ -12,7 +12,7 @@
 
 <hr>
 
-##Tecnologias que estou aprendendo📖
+## Tecnologias que estou aprendendo📖
 
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
