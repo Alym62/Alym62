@@ -2,9 +2,10 @@
 
 #### Siga-me nas minhas redes sociais!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyasaf-meireles-40b51b247)
-![follow](https://img.shields.io/github/followers/Alym62.svg?style=social&label=Follow&maxAge=2592000)
 
 ![Alym62 GitHub stats](https://github-readme-stats.vercel.app/api?username=Alym62&show_icons=true&theme=cobalt)
+
+![follow](https://img.shields.io/github/followers/Alym62.svg?style=social&label=Follow&maxAge=2592000)
 
 ## Tecnologias que eu tenho conhecimento:
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
