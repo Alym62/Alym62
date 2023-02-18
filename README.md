@@ -1,4 +1,4 @@
-### Olá, me chamo Alyasaf 😉
+<h1 align="center">Olá, me chamo Alyasaf 😉</h1>
 #### Siga-me nas minhas redes sociais!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyasaf-meireles-40b51b247)
 
@@ -21,3 +21,4 @@
 ![type](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![phyton](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
+![follow](https://img.shields.io/github/followers/{Alym62}.svg?style=social&label=Follow&maxAge=2592000)
