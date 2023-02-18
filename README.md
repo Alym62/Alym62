@@ -22,4 +22,4 @@
 ![type](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![phyton](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-![follow](https://img.shields.io/github/followers/{Alyasaf Meireles}.svg?style=social&label=Follow&maxAge=2592000)
+![follow](https://img.shields.io/github/followers/{Alym62}.svg?style=social&label=Follow&maxAge=2592000)
