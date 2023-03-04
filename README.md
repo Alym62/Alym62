@@ -7,18 +7,4 @@
 
 ![follow](https://img.shields.io/github/followers/Alym62.svg?style=social&label=Follow&maxAge=2592000)
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-    <title>Document</title>
-</head>
-<body>
-  <div>
-  <i class='bx bxl-html5'></i>
-  </div>
-</body>
-</html>
+<i class='bx bxl-html5'></i>
