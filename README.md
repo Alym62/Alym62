@@ -2,7 +2,7 @@
 
 <h1 align="center">Olá 👋, Eu me chamo Alyasaf Meireles.</h1>
 <h3 align="center">Tenho 19 anos, e sou estudante de Sistemas de Informação. E pretendo ser um Front-end Developer.</h3>
-<img align="right" alt="icon coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
+<img align="right" alt="icon" width="300" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alym62&label=Profile%20views&color=0e75b6&style=flat" alt="alym62" /> </p>
 
