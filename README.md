@@ -4,8 +4,6 @@
 <h3 align="center">Tenho 19 anos, e sou estudante de Sistemas de Informação. E pretendo ser um Desenvolvedor Full Stack.</h3>
 <img align="right" alt="icon" width="450" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alym62&label=Profile%20views&color=0e75b6&style=flat" alt="alym62"/> </p>
-
 - 🌱 Estou Estudando **React, NodeJs, JavaScript.**
 
 - 🤓 Tenho interesse **Tailwind e TypeScript.**
