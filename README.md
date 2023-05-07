@@ -19,7 +19,8 @@
 </p>
 
 <h3 align="left">Tecnologias que tenho conhecimento e estou aprendendo:</h3>
-<p align="left"> ![image](https://user-images.githubusercontent.com/111710522/236690491-64e94003-cb3a-4a3f-8def-cf8cac34f94a.png)
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/111710522/236690491-64e94003-cb3a-4a3f-8def-cf8cac34f94a.png">
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alym62&show_icons=true&locale=en&layout=compact" alt="alym62" /></p>
