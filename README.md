@@ -16,7 +16,6 @@
   <img src="https://user-images.githubusercontent.com/111710522/236690974-4a6ca331-3fd8-46bd-a111-7fb4dbb0292d.png" width="55px">
   <img src="https://user-images.githubusercontent.com/111710522/236690873-8abddc8a-8dca-49b4-a0c1-8bf88361292e.png" width="55px">
   <img src="https://user-images.githubusercontent.com/111710522/236704452-8682eba6-9a49-4193-8cd5-edb375068d1c.png" width="55px">
-  <img src="https://user-images.githubusercontent.com/111710522/236704895-69bab53b-b2fe-4023-922b-ecc1ab33115c.png" width="55px">
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alym62&show_icons=true&locale=en&layout=compact" alt="alym62" /></p>
