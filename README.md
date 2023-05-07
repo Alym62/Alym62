@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **Não gosto de café.**
 
-<h3 align="left">Dá na minha rede:</h3>
+<h3 align="left">Dá uma olhada na minha rede:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alyasaf/" target="blank"><img src="https://user-images.githubusercontent.com/111710522/236704275-8b0b706a-6135-49c6-bf43-2a7380d08cad.png" width="55px"></a>
 </p>
