@@ -9,10 +9,9 @@
 
 - ⚡ Fun fact **Não gosto de café.**
 
-<h3 align="left">Dá uma olhada nas minhas redes:</h3>
+<h3 align="left">Dá na minha rede:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alyasaf/" target="blank"><img src="https://user-images.githubusercontent.com/111710522/236704275-8b0b706a-6135-49c6-bf43-2a7380d08cad.png" width="55px"></a>
-<a href="https://discord.gg/🩸AlyM #9666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="🩸AlyM #9666" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Tecnologias que tenho conhecimento e estou aprendendo:</h3>
