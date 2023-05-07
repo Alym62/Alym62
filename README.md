@@ -22,7 +22,7 @@
 <p align="left">
   <img src="https://user-images.githubusercontent.com/111710522/236690491-64e94003-cb3a-4a3f-8def-cf8cac34f94a.png" width="55px">
   <img src="https://user-images.githubusercontent.com/111710522/236690679-25588b88-65b9-473e-abc0-90b38d8b3568.png" width="55px">
-  <img src="https://user-images.githubusercontent.com/111710522/236690803-56a2a447-eb44-48f7-a4ce-796d29bb1a64.png" width="65px">
+  <img src="https://user-images.githubusercontent.com/111710522/236690803-56a2a447-eb44-48f7-a4ce-796d29bb1a64.png" width="85px">
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alym62&show_icons=true&locale=en&layout=compact" alt="alym62" /></p>
