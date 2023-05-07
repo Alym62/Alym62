@@ -6,6 +6,7 @@
 <h3 align="left">Dá uma olhada na minha rede:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alyasaf/" target="blank"><img src="https://user-images.githubusercontent.com/111710522/236704275-8b0b706a-6135-49c6-bf43-2a7380d08cad.png" width="55px"></a>
+<a href="#" target="blank"><img src="https://user-images.githubusercontent.com/111710522/236704693-f263ce56-ed1d-47f4-82f4-4a75ac7dda6c.png" width="55px"></a>
 </p>
 
 <h3 align="left">Tecnologias que tenho conhecimento e estou aprendendo:</h3>
