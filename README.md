@@ -1,4 +1,4 @@
-![welcome](https://user-images.githubusercontent.com/111710522/236688101-6e2fb20b-6393-40e4-9d11-de68d5de1155.mp4)
+<img src="https://user-images.githubusercontent.com/111710522/236688101-6e2fb20b-6393-40e4-9d11-de68d5de1155.mp4">
 
 <h1 align="center">Olá 👋, Eu me chamo Alyasaf Meireles.<img src="https://camo.githubusercontent.com/6d1d347555abe50c6907660b867ab6433a908c069807d28066eac46d2679fc1f/68747470733a2f2f7777772e696d6167656e73616e696d616461732e636f6d2f646174612f6d656469612f3331382f656d6f7469636f6e2d652d736d696c65792d636f6d70757461646f722d696d6167656d2d616e696d6164612d303033312e676966"></h1>
 <h3 align="center">Tenho 19 anos, e sou estudante de Sistemas de Informação. E pretendo ser um Front-end Developer.</h3>
