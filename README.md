@@ -2,9 +2,6 @@
 
 <h1 align="center">Olá, Eu me chamo Alyasaf Meireles</h1>
 <h3 align="center">Tenho 19 anos, e sou estudante de Sistemas de Informação. E pretendo ser um Desenvolvedor Full Stack.</h3>
-<hr>
-
-<a><img src="https://user-images.githubusercontent.com/111710522/236704509-e2f2be08-a8e0-48c4-a403-a5af26d297cc.png" width="55px"><strong>Desenvolvimento Web</strong></a>
 
 <h3 align="left">Dá uma olhada na minha rede:</h3>
 <p align="left">
