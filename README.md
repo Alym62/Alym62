@@ -1,4 +1,5 @@
-![Ao_meu_github_AdobeExpress](https://user-images.githubusercontent.com/111710522/236688352-c7673c1b-5e13-438b-92ad-85ce77fbba54.gif)
+![Ao_meu_github_AdobeExpress (1)](https://user-images.githubusercontent.com/111710522/236688457-814c9cb1-1c28-443f-9442-e82dd290b000.gif)
+
 
 
 <h1 align="center">Olá 👋, Eu me chamo Alyasaf Meireles.<img src="https://camo.githubusercontent.com/6d1d347555abe50c6907660b867ab6433a908c069807d28066eac46d2679fc1f/68747470733a2f2f7777772e696d6167656e73616e696d616461732e636f6d2f646174612f6d656469612f3331382f656d6f7469636f6e2d652d736d696c65792d636f6d70757461646f722d696d6167656d2d616e696d6164612d303033312e676966"></h1>
