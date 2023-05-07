@@ -2,7 +2,6 @@
 
 <h1 align="center">Olá, Eu me chamo Alyasaf Meireles</h1>
 <h3 align="center">Tenho 19 anos, e sou estudante de Sistemas de Informação. E pretendo ser um Desenvolvedor Full Stack.</h3>
-<img align="right" alt="icon" width="450" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif">
 
 - 🌱 Estou Estudando **React, NodeJs, JavaScript.**
 
