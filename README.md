@@ -1,22 +1,27 @@
-<img src="https://user-images.githubusercontent.com/111710522/236688457-814c9cb1-1c28-443f-9442-e82dd290b000.gif" width="1000px">
+# Olá, eu me chamo Alyasaf Meireles.
 
-<h1 align="center">Olá, Eu me chamo Alyasaf Meireles</h1>
-<h3 align="center">Tenho 19 anos, e sou estudante de Sistemas de Informação. E pretendo ser um Desenvolvedor Full Stack.</h3>
+Me chamo Alyasaf, estou no mundo da programação a 2 anos, espero que goste do meu dos meus códigos.
 
-<h3 align="left">Dá uma olhada na minha rede:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alyasaf/" target="blank"><img src="https://user-images.githubusercontent.com/111710522/236704275-8b0b706a-6135-49c6-bf43-2a7380d08cad.png" width="55px"></a>
-<a href="https://alym62.github.io/MyPortfolio/" target="blank"><img src="https://user-images.githubusercontent.com/111710522/236704693-f263ce56-ed1d-47f4-82f4-4a75ac7dda6c.png" width="55px"></a>
+- Minhas redes:
+
+<a href="https://www.linkedin.com/in/alyasaf/">
+ <img src="https://skillicons.dev/icons?i=linkedin">
+</a>
+
+
+## Tecnologias que tenho conhecimento:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,nodejs,html,css,prisma,react,tailwind,express,php,mysql" />
+  </a>
 </p>
 
-<h3 align="left">Tecnologias que tenho conhecimento e estou aprendendo:</h3>
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/111710522/236690491-64e94003-cb3a-4a3f-8def-cf8cac34f94a.png" width="55px">
-  <img src="https://user-images.githubusercontent.com/111710522/236690679-25588b88-65b9-473e-abc0-90b38d8b3568.png" width="55px">
-  <img src="https://user-images.githubusercontent.com/111710522/236690974-4a6ca331-3fd8-46bd-a111-7fb4dbb0292d.png" width="55px">
-  <img src="https://user-images.githubusercontent.com/111710522/236690873-8abddc8a-8dca-49b4-a0c1-8bf88361292e.png" width="55px">
-  <img src="https://user-images.githubusercontent.com/111710522/236704452-8682eba6-9a49-4193-8cd5-edb375068d1c.png" width="55px">
-  <img src="https://github.com/Alym62/Alym62/assets/111710522/62b099ce-99b4-45d7-a049-cbdfaac827c0" width="55px">
+
+## Tecnologias que eu estou aprendendo:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,java,ts,angular,nextjs" />
+  </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alym62&show_icons=true&locale=en&layout=compact" alt="alym62" /></p>
