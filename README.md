@@ -2,8 +2,6 @@
 
 Me chamo Alyasaf, estou no mundo da programação a 2 anos, espero que goste do meu dos meus códigos.
 
-- Minhas redes:
-
 <a href="https://www.linkedin.com/in/alyasaf/">
  <img src="https://skillicons.dev/icons?i=linkedin">
 </a>
