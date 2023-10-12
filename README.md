@@ -10,7 +10,7 @@ Me chamo Alyasaf, estou no mundo da programação a 2 anos, espero que goste do 
 ## Tecnologias que tenho conhecimento:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,nodejs,html,css,prisma,react,tailwind,express,php,mysql&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,js,nodejs,html,css,prisma,react,tailwind,express,php,mysql,postgres&perline=6" />
   </a>
 </p>
 
