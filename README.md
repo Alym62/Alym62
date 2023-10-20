@@ -1,6 +1,6 @@
 # Olá, eu me chamo Alyasaf Meireles.
 
-Me chamo Alyasaf, estou no mundo da programação a 2 anos, espero que goste do meu dos meus códigos.
+Me chamo Alyasaf, estou no mundo da programação a 2 anos, espero que goste dos meus códigos.
 
 <a href="https://www.linkedin.com/in/alyasaf/">
  <img src="https://skillicons.dev/icons?i=linkedin">
@@ -10,7 +10,7 @@ Me chamo Alyasaf, estou no mundo da programação a 2 anos, espero que goste do 
 ## Tecnologias que tenho conhecimento:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,nodejs,html,css,prisma,react,tailwind,express,php,mysql,postgres&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,js,nodejs,html,css,prisma,react,tailwind,express,php,mysql,postgres,docker&perline=6" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@ Me chamo Alyasaf, estou no mundo da programação a 2 anos, espero que goste do 
 ## Tecnologias que eu estou aprendendo:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,java,ts,angular,nextjs" />
+    <img src="https://skillicons.dev/icons?i=laravel,java,spring,ts,angular,nextjs" />
   </a>
 </p>
 
