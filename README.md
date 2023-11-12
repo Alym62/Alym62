@@ -10,15 +10,15 @@ Me chamo Alyasaf, estou no mundo da programação a 2 anos, espero que goste dos
 ## Tecnologias que tenho conhecimento:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,nodejs,html,css,prisma,react,tailwind,express,php,mysql,postgres,docker&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,java,spring,js,nodejs,nestjs,express,react,ts,angular,tailwind,php,prisma,mysql,postgres,docker,&perline=6" />
   </a>
 </p>
 
 
-## Tecnologias que eu estou aprendendo:
+## Tecnologias e ferramentas que tenho interesse em aprender:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,java,spring,ts,angular,nextjs" />
+    <img src="https://skillicons.dev/icons?i=laravel,mongodb,go,linux" />
   </a>
 </p>
 
