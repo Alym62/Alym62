@@ -18,7 +18,7 @@ Me chamo Alyasaf, estou no mundo da programação a 2 anos, espero que goste dos
 ## Tecnologias e ferramentas que tenho interesse em aprender:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,mongodb,go,linux" />
+    <img src="https://skillicons.dev/icons?i=laravel,mongodb,go,linux,kotlin" />
   </a>
 </p>
 
