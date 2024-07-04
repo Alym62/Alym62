@@ -10,7 +10,7 @@ Me chamo Alyasaf, estou no mundo da programação a 2 anos, espero que goste dos
 ## Tecnologias que tenho conhecimento:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,spring,js,nodejs,nestjs,express,react,ts,angular,tailwind,php,prisma,mysql,postgres,docker,&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,java,spring,js,nodejs,ts,nestjs,react,angular,tailwind,prisma,mysql,postgres,docker,&perline=6" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@ Me chamo Alyasaf, estou no mundo da programação a 2 anos, espero que goste dos
 ## Tecnologias e ferramentas que tenho interesse em aprender:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,mongodb,go,linux,kotlin" />
+    <img src="https://skillicons.dev/icons?i=kafka,mongodb,go,rabbitmq" />
   </a>
 </p>
 
