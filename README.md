@@ -1,7 +1,7 @@
 # Olá, eu me chamo Alyasaf Meireles.
 
 <p>
-Me chamo Alyasaf, estou no mundo da programação a mais de 2 anos, tenho fortes conhecimentos com Java, TypeScript e Go. 
+Estou no mundo da programação a mais de 2 anos, tenho fortes conhecimentos com Java, TypeScript e Go. 
 Sou Desenvolvedor de Software, atualmente atuando como Full Stack. Tenho conhecimentos em Microservices, banco de dados, API RestFull e arquitetura de software. Espero que goste dos meus códigos!
 </p>
 
