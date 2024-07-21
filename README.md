@@ -1,6 +1,9 @@
 # Olá, eu me chamo Alyasaf Meireles.
 
-Me chamo Alyasaf, estou no mundo da programação a 2 anos, espero que goste dos meus códigos.
+<p>
+Me chamo Alyasaf, estou no mundo da programação a mais de 2 anos, tenho fortes conhecimentos com Java, TypeScript e Go. 
+Sou Desenvolvedor de Software, atualmente atuando como Full Stack. Tenho conhecimentos em Microservices, banco de dados, API RestFull e arquitetura de software. Espero que goste dos meus códigos!
+</p>
 
 <a href="https://www.linkedin.com/in/alyasaf/">
  <img src="https://skillicons.dev/icons?i=linkedin">
@@ -15,7 +18,7 @@ Me chamo Alyasaf, estou no mundo da programação a 2 anos, espero que goste dos
 </p>
 
 
-## Tecnologias e ferramentas que tenho interesse em aprender:
+## Tecnologias e ferramentas que tenho conhecimento e estou aprendendo:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kafka,mongodb,go,rabbitmq" />
