@@ -13,7 +13,7 @@ Sou Desenvolvedor de Software, atualmente atuando como Full Stack. Tenho conheci
 ## Tecnologias que tenho domínio:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,spring,js,nodejs,ts,nestjs,angular,postgres,docker,mongodb,kafka,rabbitmq&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,ts,nestjs,angular,postgres,docker,mongodb,kafka,rabbitmq,aws,git&perline=6" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@ Sou Desenvolvedor de Software, atualmente atuando como Full Stack. Tenho conheci
 ## Tecnologias e ferramentas que tenho conhecimento e estou aprendendo:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=go,kubernetes,terraform" />
   </a>
 </p>
 
