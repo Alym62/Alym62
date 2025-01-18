@@ -9,9 +9,9 @@ Sou Desenvolvedor de Software, atualmente atuando como Full Stack. Tenho conheci
   <a href="https://www.linkedin.com/in/alyasaf/">
    <img src="https://skillicons.dev/icons?i=linkedin">
  </a>
- <a href="https://x.com/alyasafdev">
+<!--  <a href="https://x.com/alyasafdev">
   <img src="https://skillicons.dev/icons?i=twitter">
- </a>
+ </a> -->
 </p>
 
 
