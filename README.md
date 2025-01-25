@@ -31,9 +31,5 @@ Sou Desenvolvedor de Software, atualmente atuando como Full Stack. Tenho conheci
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alym62&show_icons=true&locale=en&layout=compact" alt="alym62" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alym62&show_icons=true&locale=en" alt="alym62" /></p>
-
 
 
